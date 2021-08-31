@@ -1,0 +1,22 @@
+[flake8]
+max-line-length = 120
+max-complexity = 10
+ignore =
+    # block comment should start with '# '
+    E265
+    # multiple statements on one line (semicolon)
+    E702
+    # line too long
+    E501
+    # line break before binary operator
+    W503
+    # missing white space after ','
+    E231
+    # blank line at end of file
+    W391
+    # unable to detect names from * import
+    F403
+    # names defined from star imports
+    F405
+
+
