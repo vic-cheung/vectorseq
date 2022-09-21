@@ -1,8 +1,10 @@
 # VECTORseq analysis
 
-Analysis pipelines and scripts used for the [paper](https://www.cell.com/cell-reports/fulltext/S2211-1247(21)01627-2):
+Analysis pipelines and scripts used for the papers:
 
-> *Virally Encoded Connectivity Transgenic Overlay RNA sequencing (VECTORseq) defines projection neurons involved in sensorimotor integration.*  Victoria Cheung; Philip Chung; Max Bjorni; Varvara Shvareva; Yesenia Lopez; Evan H Feinberg
+> [*Virally Encoded Connectivity Transgenic Overlay RNA sequencing (VECTORseq) defines projection neurons involved in sensorimotor integration.*  Victoria Cheung; Philip Chung; Max Bjorni; Varvara Shvareva; Yesenia Lopez; Evan H Feinberg](https://doi.org/10.1016/j.celrep.2021.110131)
+
+> [*Transcriptional profiling of mouse projection neurons with VECTORseq.* Victoria Cheung; Philip Chung; Evan H Feinberg](https://doi.org/10.1016/j.xpro.2022.101625)
 
 ## Structure
 
